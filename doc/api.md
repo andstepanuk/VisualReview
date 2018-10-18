@@ -130,4 +130,5 @@ The following parts/project already make use of these API calls:
 * [VisualReview-protractor](https://github.com/xebia/VisualReview-protractor), create new runs and screenshots.
 * [VisualReview-node-client](https://github.com/Klaasvaak/VisualReview-node-client), Node.js client for VisualReview
 * [VisualReview-selenium-java-prototype](https://github.com/skwakman/visualreview-selenium-java-prototype), Java implementation that can create suites, runs and ofcourse send screenshots. Very quickly setup for demonstration purposes.
+* [VisualReview-CSharp-Client](https://github.com/andstepanuk/VisualReview_CSharp_Client), C# client for VisualReview
 * [VisualReview-docker](https://github.com/FinKingma/VisualReviewDockerfile), Dockerfile to run VisualReview.
